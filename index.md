@@ -1,6 +1,6 @@
 ## Welcome to Nate's Programming Portfolio
 
-![Typing Test]()
+![Typing Test](https://github.com/Pigchow101/CP-Portfolio/blob/gh-pages/images/WPM-Typing-Test.png)
 
 You can use the [editor on GitHub](https://github.com/Pigchow101/CP-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
